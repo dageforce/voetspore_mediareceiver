@@ -3,11 +3,5 @@
 }
 
 .logo {
-  background-image: url(splash.webp);
-  -webkit-animation: fadein 1s;
-}
-
-@-webkit-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+  background-image: url(https://raw.githubusercontent.com/dageforce/voetspore_mediareceiver/refs/heads/main/src/splash.webp);
 }
