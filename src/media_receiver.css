@@ -1,0 +1,13 @@
+.background {
+  background-color: rgba(96, 107, 92, 1);
+}
+
+.logo {
+  background-image: url(splash.webp);
+  -webkit-animation: fadein 1s;
+}
+
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
